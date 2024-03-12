@@ -44,3 +44,11 @@
 .lightbulb.off .bulb {
   box-shadow: none;
 }
+
+.lightbulb.crazy {
+  background-color: #c72066;
+}
+
+.lightbulb.crazy .bulb {
+  box-shadow: none;
+}
